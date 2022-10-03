@@ -38,3 +38,4 @@ Date:   Fri Sep 30 14:43:44 2022 +0200
 
 
 ![alt text](preuve-travail.png "Preuve de travail")
+![alt text](tag.png "Capture d'écran du tag v1.0")
