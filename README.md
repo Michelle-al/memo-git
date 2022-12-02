@@ -13,6 +13,8 @@
 ### Branches
 - `git branch test` : créer la branch "test".
 - `git branch`: liste les branches du projet.
+- `git branch -d footer` : aller sur une autre branche que la branche footer et lancer la commande pour la supprimer.
+- `git push origin -d footer` : aller sur une autre branche que la branche footer et lancer la commande pour supprimer la branche distante.
 - `git checkout test` : aller sur la branche "test".
 
 ### Proposer une nouvelle version du projet à ses collègues
